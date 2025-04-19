@@ -28,6 +28,23 @@ This module allows users to input a propositional logic expression using standar
 | IMPLIES  | `>`    | Logical Implication |
 | IFF      | `=`    | Biconditional       |
 
-### Sample Input
+### OUTPUT OF PREPOSITION LOGIC 
+![image](https://github.com/user-attachments/assets/ddc22c4e-c823-4d36-b9bf-3c590025314b)
+
+![image](https://github.com/user-attachments/assets/c409e228-03c3-4dc7-94f3-50f8a9753ffa)
+
+![image](https://github.com/user-attachments/assets/17528d9d-3cd1-488d-abf9-9bb1a2bc5145)
+
+### OUTPUT OF RELATIONS
+![image](https://github.com/user-attachments/assets/3ae05a8e-eb17-49fe-9994-c8b58dd9bdb5)
+
+![image](https://github.com/user-attachments/assets/4325528e-3f37-42d7-9004-6ca923856e7d)
+
+![image](https://github.com/user-attachments/assets/4f0fcb17-1ced-4e41-aca5-1d547df5ce5d)
+
+
+
+
+
 
 
